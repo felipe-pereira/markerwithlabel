@@ -1,0 +1,9 @@
+{
+  "name": "markerwithlabel",
+  "version": "1.0.0",
+  "keywords": ["markerwithlabel", "google", "maps"],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
